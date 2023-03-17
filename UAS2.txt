@@ -1,0 +1,18 @@
+========================================
+=========== NOTA PEMBAYARAN ============
+========================================
+        Nama Barang Yang Dibeli         
+1. Mie Dokdok  10000
++======================================+
+Total Harga     : Rp10000
+Tunai           : Rp20000
+Kembalian       : Rp10000
+
+
+Nama Pelanggan : Niy
+Tanggal Transaksi :2023-03-17
+Jam Transaksi :14:30:58
++======================================+
+         Nama Kasir : Adi Luthfi        
+             Terima Kasih               
++======================================+
